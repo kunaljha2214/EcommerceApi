@@ -1,0 +1,5 @@
+{
+    "mongoURIProd":"mongodb+srv://admin:admin123@@node-rest-shop.rt7sj.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "adminEmail":"kunaljha2214@gmail.com",
+    "adminPassword":"kunal2214@#$*"
+}
